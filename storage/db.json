@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "name": "John", "id": "e736208d-5c2c-4f96-b5f0-f2dd4cc6700d" },
+    { "name": "Peter", "id": "62c907e4-c04c-40da-97e4-4715c02bcb3a" },
+    { "name": "Jack", "id": "0ffcc7a9-9e8c-4184-9fbf-13423a55785a" }
+  ]
+}

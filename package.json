@@ -1,0 +1,27 @@
+{
+  "name": "db-simulate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start:prod": "node dist/index.js",
+    "start:dev": "ts-node src/index.ts",
+    "start:watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.3",
+    "@types/node": "^20.8.7",
+    "@types/uuid": "^9.0.6",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "uuid": "^9.0.1"
+  }
+}
